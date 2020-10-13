@@ -1,0 +1,50 @@
+.p1 {
+    font-family: 'Dancing Script', cursive;
+text-align: center;
+}
+
+.p3 {
+    color: darkgreen;
+    background-color: aliceblue;
+}
+
+.p4 {
+    color: red;
+    background-color: yellowgreen;
+}
+ 
+body h2 {
+    text-align: center;
+}
+
+.p5 {
+    font-family: 'Caveat', cursive;
+color: purple;
+}
+
+.h2 {
+    color: red;
+}
+
+body h1 {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+
+.button1 {
+height: 50px;
+        width: 50px;
+        border- radius 10%;
+        border-color: teal;
+        border-style: solid;
+        border-width: 2px;
+        background-color:yellowgreen;
+        color: red;
+}
+
+
+
